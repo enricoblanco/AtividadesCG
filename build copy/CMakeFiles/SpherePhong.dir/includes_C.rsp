@@ -1,0 +1,1 @@
+-IC:/Users/Enrico/Desktop/CG/CGCCHibrido/include -IC:/Users/Enrico/Desktop/CG/CGCCHibrido/common -IC:/Users/Enrico/Desktop/CG/CGCCHibrido/include/glad -I"C:/Users/Enrico/Desktop/CG/CGCCHibrido/build/_deps/glm-src" -I"C:/Users/Enrico/Desktop/CG/CGCCHibrido/build/_deps/stb_image-src" -I"C:/Users/Enrico/Desktop/CG/CGCCHibrido/build/_deps/glfw-src/include"
