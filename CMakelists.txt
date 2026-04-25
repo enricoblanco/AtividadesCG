@@ -49,6 +49,7 @@ set(EXERCISES
     SpherePhong
     EntregaOBJ
     EntregaPhong
+    EntregaFP
 )
 
 add_compile_options(-Wno-pragmas)
