@@ -1,0 +1,12 @@
+{
+	"InstallScripts" : 
+	[
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/cmake_install.cmake",
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/glfw-build/cmake_install.cmake",
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/glfw-build/src/cmake_install.cmake",
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/glfw-build/docs/cmake_install.cmake",
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/glm-build/cmake_install.cmake",
+		"/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/glm-build/glm/cmake_install.cmake"
+	],
+	"Parallel" : false
+}
