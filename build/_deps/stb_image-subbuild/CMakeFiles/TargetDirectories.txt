@@ -1,3 +1,0 @@
-/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/stb_image-subbuild/CMakeFiles/stb_image-populate.dir
-/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/stb_image-subbuild/CMakeFiles/edit_cache.dir
-/Users/enricoblanco/Documents/projetos/AtividadesCG/build/_deps/stb_image-subbuild/CMakeFiles/rebuild_cache.dir
