@@ -52,6 +52,7 @@ set(EXERCISES
     EntregaFP
     EntregaTrajetoria
     AtividadeMultiplosOBJ
+    AtividadeIluminacao3Pontos
 )
 
 add_compile_options(-Wno-pragmas)
